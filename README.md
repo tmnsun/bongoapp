@@ -7,6 +7,9 @@ It is not quite full feature, but I'm actually using it as my todo list. I welco
 
 You can check out how I setup Backbone and Go. There were a few tricky bits with routing, setting up Backbone and Datstore Ids but all-in-all the two work really well together.
 
+### Screenshot
+
+![Bongoapp Screenshot](/static/bongo-screenshot.png)
 
 ### Setup
 
@@ -31,3 +34,11 @@ If you were interested in hacking on it to learn, here are a few things that I h
 * Add create on enter
 * Allow user created lists (hardcoded now)
 * Order list items to set priority
+
+
+### Credits
+
+The icons used are the [Genericons](http://genericons.com/) icon font, created by the awesome designer [Joen Asmussen](http://noscope.com)
+
+
+
